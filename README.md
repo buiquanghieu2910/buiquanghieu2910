@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bui Quang Hieu</h1>
 <h3 align="center">Backend developer</h3>
 
-- 📝 I regularly write articles on [buiquanghieu.xyz](buiquanghieu.xyz)
+- 📝 I regularly write articles on [buiquanghieu.com](buiquanghieu.com)
 
 - 💬 Ask me about **Spring boot, Laravel, Express, Vue**
 
