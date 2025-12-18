@@ -18,22 +18,10 @@ Với kinh nghiệm tham gia các dự án **E-Commerce** và **hệ thống tà
 
 ---
 
-## 🌐 Website cá nhân
-
-🔗 **https://buiquanghieu.com**
-
-Website cá nhân được xây dựng với mục tiêu:
-- Giới thiệu hồ sơ nghề nghiệp và định hướng phát triển
-- Chia sẻ kiến thức về **Backend, System, DevOps**
-- Trình bày các **dự án cá nhân** và **case study kỹ thuật**
-- Thể hiện phong cách làm việc và tư duy công nghệ
-
----
-
 ## 🛠️ Kỹ năng kỹ thuật
 
 ### 🔧 Backend
-- **Java**: Spring Boot, JPA, Hibernate
+- **Java**: Spring Boot, JPA, Hibernate  
 - **PHP**: Laravel (MVC, Eloquent ORM)
 
 ### 🎨 Frontend
@@ -52,24 +40,6 @@ Website cá nhân được xây dựng với mục tiêu:
 
 ---
 
-## 💡 Điểm mạnh
-
-- Khả năng **tự học nhanh**, chủ động nghiên cứu và giải quyết vấn đề  
-- Nhiệt tình, cởi mở, sẵn sàng hỗ trợ đồng nghiệp  
-- Tinh thần trách nhiệm cao, làm việc nghiêm túc và hiệu quả  
-
-### ⚠️ Điểm cần cải thiện
-- Cầu toàn và khá kỹ tính, đôi khi dễ gây hiểu lầm là khó tính  
-
----
-
-## ❤️ Sở thích
-
-- Nghiên cứu và thử nghiệm công nghệ mới  
-- Lắp ráp, chế tạo các sản phẩm liên quan đến điện tử và công nghệ  
-
----
-
 ## 🧑‍💻 Kinh nghiệm làm việc
 
 ### 🏦 Ngân hàng Quốc tế VIB  
@@ -77,7 +47,7 @@ Website cá nhân được xây dựng với mục tiêu:
 📅 *06/2024 → Hiện tại*
 
 - Tham gia phát triển và vận hành hệ thống **Tài khoản Siêu Lợi Suất** – sản phẩm chiến lược của ngân hàng năm 2025  
-- Tối ưu hiệu suất xử lý, đảm bảo tính ổn định, an toàn và khả năng mở rộng của hệ thống
+- Tối ưu hiệu suất xử lý, đảm bảo tính ổn định, an toàn và khả năng mở rộng của hệ thống  
 
 ---
 
@@ -93,21 +63,6 @@ Website cá nhân được xây dựng với mục tiêu:
 - Database: SQL Server  
 - Triển khai: Heroku  
 - Team size: 12 thành viên  
-
----
-
-### 🎓 Cao đẳng FPT Polytechnic  
-**Trưởng nhóm dự án tốt nghiệp**  
-📅 *09/2022 → 12/2022*
-
-- Đề tài: Website bán giày  
-- Vai trò: Trưởng nhóm (7 thành viên)
-
-**Công nghệ sử dụng**
-- Backend: Java Spring Boot, JPA, Hibernate  
-- Frontend: AngularJS  
-- Database: MySQL (Modeling Product Variants)  
-- Triển khai: Docker trên VPS Ubuntu  
 
 ---
 
@@ -136,6 +91,36 @@ Website cá nhân được xây dựng với mục tiêu:
 - GPA: **8.9 / 10.0**  
 - Xếp loại: **Giỏi**  
 - 🌟 **Sinh viên xuất sắc của khóa học**
+
+---
+
+## 🌐 Website cá nhân
+
+🔗 **https://buiquanghieu.com**
+
+Website cá nhân được xây dựng nhằm:
+- Giới thiệu hồ sơ nghề nghiệp và định hướng phát triển
+- Chia sẻ kiến thức về **Backend, System, DevOps**
+- Trình bày **dự án cá nhân** và **case study kỹ thuật**
+- Thể hiện phong cách làm việc và tư duy công nghệ
+
+---
+
+## 💡 Điểm mạnh
+
+- Khả năng **tự học nhanh**, chủ động nghiên cứu và giải quyết vấn đề  
+- Nhiệt tình, cởi mở, sẵn sàng hỗ trợ đồng nghiệp  
+- Tinh thần trách nhiệm cao, làm việc nghiêm túc và hiệu quả  
+
+### ⚠️ Điểm cần cải thiện
+- Cầu toàn và khá kỹ tính, đôi khi dễ gây hiểu lầm là khó tính  
+
+---
+
+## ❤️ Sở thích
+
+- Nghiên cứu và thử nghiệm công nghệ mới  
+- Lắp ráp, chế tạo các sản phẩm liên quan đến điện tử và công nghệ  
 
 ---
 
