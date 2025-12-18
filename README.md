@@ -1,31 +1,151 @@
-<h1 align="center">Hi 👋, I'm Bui Quang Hieu</h1>
-<h3 align="center">Backend Developer</h3>
+# 👋 Xin chào, tôi là Bùi Quang Hiếu
 
-- 📝 I regularly write articles on [buiquanghieu.com](buiquanghieu.com)
+💼 **Chuyên viên phát triển và vận hành công nghệ**  
+🏦 **Ngân hàng Quốc tế VIB**  
+🌐 **Website cá nhân:** https://buiquanghieu.com
 
-- 💬 Ask me about **Spring boot, Laravel, Express, Vue**
+---
 
-- 📫 How to reach me **bui.quang.hieu2910@gmail.com**
+## 🚀 Giới thiệu
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/buiquanghieu2910" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="buiquanghieu2910" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@buiquanghieu2910" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="buiquanghieu2910" height="30" width="40" /></a>
-</p>
+Tôi là một người đam mê công nghệ với tư duy logic và tinh thần học hỏi không ngừng.  
+Bên cạnh việc **phát triển phần mềm**, tôi đặc biệt quan tâm đến **tối ưu hệ thống**, **hiệu suất**, và **vận hành ổn định** trong môi trường doanh nghiệp và ngân hàng.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> 
-</p>
+Với kinh nghiệm tham gia các dự án **E-Commerce** và **hệ thống tài chính – ngân hàng**, tôi luôn chủ động tìm kiếm cơ hội để:
+- Nâng cao năng lực kỹ thuật
+- Áp dụng giải pháp công nghệ hiệu quả vào thực tế
+- Đóng góp giá trị bền vững cho tổ chức
 
+---
+
+## 🌐 Website cá nhân
+
+🔗 **https://buiquanghieu.com**
+
+Website cá nhân được xây dựng với mục tiêu:
+- Giới thiệu hồ sơ nghề nghiệp và định hướng phát triển
+- Chia sẻ kiến thức về **Backend, System, DevOps**
+- Trình bày các **dự án cá nhân** và **case study kỹ thuật**
+- Thể hiện phong cách làm việc và tư duy công nghệ
+
+---
+
+## 🛠️ Kỹ năng kỹ thuật
+
+### 🔧 Backend
+- **Java**: Spring Boot, JPA, Hibernate
+- **PHP**: Laravel (MVC, Eloquent ORM)
+
+### 🎨 Frontend
+- Angular, AngularJS  
+- VueJS  
+
+### ☁️ Hệ thống & DevOps
+- Docker, Docker Compose  
+- Reverse Proxy Nginx  
+- Cấu hình SSL với Certbot (Ubuntu)  
+- Cloudflare SSL 2 chiều  
+- Quản trị & vận hành VPS Ubuntu  
+- CI/CD với GitHub Actions  
+- AWS Ecosystem:  
+  `ECS · RDS · CloudWatch · ALB · NLB`
+
+---
+
+## 💡 Điểm mạnh
+
+- Khả năng **tự học nhanh**, chủ động nghiên cứu và giải quyết vấn đề  
+- Nhiệt tình, cởi mở, sẵn sàng hỗ trợ đồng nghiệp  
+- Tinh thần trách nhiệm cao, làm việc nghiêm túc và hiệu quả  
+
+### ⚠️ Điểm cần cải thiện
+- Cầu toàn và khá kỹ tính, đôi khi dễ gây hiểu lầm là khó tính  
+
+---
+
+## ❤️ Sở thích
+
+- Nghiên cứu và thử nghiệm công nghệ mới  
+- Lắp ráp, chế tạo các sản phẩm liên quan đến điện tử và công nghệ  
+
+---
+
+## 🧑‍💻 Kinh nghiệm làm việc
+
+### 🏦 Ngân hàng Quốc tế VIB  
+**Chuyên viên phát triển và vận hành công nghệ**  
+📅 *06/2024 → Hiện tại*
+
+- Tham gia phát triển và vận hành hệ thống **Tài khoản Siêu Lợi Suất** – sản phẩm chiến lược của ngân hàng năm 2025  
+- Tối ưu hiệu suất xử lý, đảm bảo tính ổn định, an toàn và khả năng mở rộng của hệ thống
+
+---
+
+### 🏢 Công ty Cổ phần Phần mềm Luvina  
+**Lập trình viên Java**  
+📅 *12/2022 → 06/2024*
+
+- Tham gia phát triển dự án **E-Commerce** cho thị trường Nhật Bản  
+
+**Công nghệ sử dụng**
+- Backend: Java Spring Boot, JPA, Hibernate  
+- Frontend: ReactJS  
+- Database: SQL Server  
+- Triển khai: Heroku  
+- Team size: 12 thành viên  
+
+---
+
+### 🎓 Cao đẳng FPT Polytechnic  
+**Trưởng nhóm dự án tốt nghiệp**  
+📅 *09/2022 → 12/2022*
+
+- Đề tài: Website bán giày  
+- Vai trò: Trưởng nhóm (7 thành viên)
+
+**Công nghệ sử dụng**
+- Backend: Java Spring Boot, JPA, Hibernate  
+- Frontend: AngularJS  
+- Database: MySQL (Modeling Product Variants)  
+- Triển khai: Docker trên VPS Ubuntu  
+
+---
+
+### 🧑‍🎓 Công ty Cổ phần Phần mềm Luvina  
+**Thực tập sinh Java**  
+📅 *07/2022 → 11/2022*
+
+- Làm quen và tham gia các dự án sử dụng JSP / Servlet  
+- Củng cố nền tảng phát triển Web Java  
+
+---
+
+## 🎓 Học vấn
+
+### 🎓 Đại học Giao thông Vận tải  
+**Công nghệ thông tin**  
+📅 *10/2023 → 07/2025*  
+- GPA: **3.0 / 4.0**  
+- Xếp loại: **Khá**
+
+---
+
+### 🎓 Cao đẳng FPT Polytechnic  
+**CNTT – Ứng dụng phần mềm**  
+📅 *09/2020 → 01/2023*  
+- GPA: **8.9 / 10.0**  
+- Xếp loại: **Giỏi**  
+- 🌟 **Sinh viên xuất sắc của khóa học**
+
+---
+
+## 📫 Liên hệ
+
+- 🌐 Website: https://buiquanghieu.com  
+- 💼 LinkedIn: *(cập nhật sau)*  
+- 📧 Email: *(cập nhật sau)*  
+
+---
+
+⭐ **Cảm ơn bạn đã ghé thăm GitHub của tôi!**  
+*Tôi luôn sẵn sàng học hỏi, chia sẻ và hợp tác trong các dự án công nghệ.*
